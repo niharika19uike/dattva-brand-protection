@@ -19,6 +19,6 @@ and provides verified corrections + a "Verified Brand Profile" to reduce future 
 - Discovery Engine
 - OpenRouter (for multi-model access)
 ## Team
-Sudarshan (Founder), Lishitha (AI Engineer), Niharika (Product and Growth)
+Sudarshan (Founder),Niharika (Product and Growth),Developer team
 <img width="831" height="484" alt="architecture" src="https://github.com/user-attachments/assets/f8e94098-61f7-49c3-b91c-2f03e2ead090" />
       
